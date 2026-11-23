@@ -1,0 +1,178 @@
+Faia|Beech
+Bétula|Birch
+Abeto-de-douglas|Douglas fir
+Castanheiro-da-índia|Horse chestnut
+Tília|Linden
+Carvalho|Oak
+Abeto-branco|Silver fir
+Bordo|Sycamore
+Muda (carta virada)|Sapling (face-down card)
+Morcego barbastela|Barbastelle bat
+Morcego de Bechstein|Bechstein’s bat
+Morcego orelhudo|Brown long-eared bat
+Morcego-de-ferradura|Greater horseshoe bat
+Fuinha|Beech marten
+Urso-pardo|Brown bear
+Texugo|European badger
+Arganaz|Edible dormouse
+Lebre|European hare
+Gamo|Fallow deer
+Mosquito|Gnat
+Lince|Lynx
+Gato-selvagem europeu|European wildcat
+Guaxinim|Raccoon
+Veado-vermelho|Red deer
+Raposa|Red fox
+Corço|Roe deer
+Leitão|Piglet
+Abelha-carpinteira-violeta|Violet carpenter bee
+Javali|Wild boar
+Lobo|Wolf
+Coruja-das-torres|Barn owl
+Dom-fafe|Bullfinch
+Borboleta manto-real|Camberwell beauty
+Tentilhão|Chaffinch
+Gaio|Jay
+Açor|Goshawk
+Pica-pau-malhado|Great spotted woodpecker
+Borboleta tartaruga-grande|Large tortoiseshell
+Borboleta pavão|Peacock butterfly
+Borboleta imperador-púrpura|Purple emperor
+Esquilo-vermelho|Red squirrel
+Borboleta tabaco-espanhol|Silver-washed fritillary
+Coruja-do-mato|Tawny owl
+Amoras|Blackberries
+Cantarelo|Chanterelle
+Sapo-comum|Common toad
+Vaga-lumes|Fireflies
+Salamandra-de-fogo|Fire salamander
+Amanita-mata-moscas|Fly agaric
+Ouriço|Hedgehog
+Toupeira|Mole
+Musgo|Moss
+Cogumelo-frade|Parasol mushroom
+Boleto|Penny bun
+Cágado|Pond turtle
+Besouro-veado|Stag beetle
+Samambaias|Tree ferns
+Perereca|Tree frog
+Morangos-silvestres|Wild strawberries
+Formiga-da-madeira|Wood ant
+Faias|Beeches
+Bétulas|Birches
+Abetos-de-douglas|Douglas firs
+Castanheiros|Horse chestnuts
+Tílias|Lindens
+Carvalhos|Oaks
+Abetos-brancos|Silver firs
+Bordos|Sycamores
+Morcegos|Bats
+Corujas-das-torres|Barn owls
+Gatos-selvagens|Wildcats
+Borboletas|Butterflies
+Lebres|Hares
+Salamandras|Salamanders
+Gamos|Fallow deer
+Veados-vermelhos|Red deer
+Lobos|Wolves
+Linces|Lynxes
+Javalis|Wild boars
+Raposas|Foxes
+Fuínhas|Beech martens
+Dom-fafes|Bullfinches
+Açores|Goshawks
+Mosquitos|Gnats
+Ouriços|Hedgehogs
+Besouros-veado|Stag beetles
+Pererecas|Tree frogs
+Formigas|Wood ants
+Musgos|Moss
+Morangos|Wild strawberries
+Pica-paus|Woodpeckers
+Tentilhões|Chaffinches
+Esquilos|Squirrels
+Arganazes|Dormice
+Sapos|Toads
+Gaios|Jays
+Texugos|Badgers
+Leitões|Piglets
+Corujas|Owls
+Cágados|Pond turtles
+Caverna|Cave
+Morcego|Bat
+Animal com patas|Pawed animal
+Cervo|Deer
+Casco fendido|Cloven-hoofed animal
+Inseto|Insect
+Ave|Bird
+Borboleta|Butterfly
+Planta|Plant
+Cogumelo|Mushroom
+Anfíbio|Amphibian
+5 pontos por faia se houver ao menos 4 faias. A abelha pode ajudar a atingir o mínimo.|5 points per beech if you have at least 4. Bees can help reach that threshold.
+Compre 1 carta.|Draw 1 card.
+Faça outro turno.|Take another turn.
+O conjunto vale 1, 4, 9, 16, 25 ou 36 pontos para 1 a 6 castanheiros; 7 ou mais valem 49. Abelhas podem aumentar a contagem.|A set of 1 to 6 horse chestnuts scores 1, 4, 9, 16, 25 or 36 points; 7 or more score 49. Bees can increase the count.
+1 ponto; ou 3 pontos por tília se sua floresta tiver a maior quantidade, incluindo empate. Abelhas podem aumentar a contagem.|1 point per linden, or 3 if your forest has the most lindens, including ties. Bees can increase the count.
+10 pontos se sua floresta tiver as 8 espécies de árvores do jogo-base.|10 points if your forest has all 8 base-game tree species.
+2 pontos por carta ligada a esta árvore.|2 points per card attached to this tree.
+Coloque um animal com patas da mão sem pagar; não use seu efeito ou bônus.|Play a pawed animal from your hand at no cost. Its effect and bonus do not apply.
+1 ponto por árvore da sua floresta, incluindo mudas.|1 point per tree in your forest, including saplings.
+Não pontua; conta como árvore, mas não como uma espécie de árvore.|Scores no points. Counts as a tree but not as a tree species.
+Qualquer carta pode ser jogada virada para baixo como muda.|Any card can be played face down as a sapling.
+5 pontos por morcego se houver pelo menos 3 espécies diferentes de morcegos.|5 points per bat if you have at least 3 different bat species.
+5 pontos por árvore com os quatro lados ocupados.|5 points per tree with all four sides occupied.
+0 pontos; cada carta na caverna vale 1 ponto.|0 points. Each card in your cave is worth 1 point.
+Coloque todas as cartas da clareira na sua caverna, incluindo as usadas no pagamento.|Put all cards from the clearing into your cave, including cards used as payment.
+Compre 1 carta e faça outro turno.|Draw 1 card and take another turn.
+15 pontos se houver um morcego no lado oposto da mesma árvore.|15 points if a bat is on the opposite side of the same tree.
+Cada lebre vale 1 ponto por lebre na sua floresta: o total é a quantidade ao quadrado.|Each hare scores 1 point per hare in your forest. Square the total number of hares.
+Qualquer número de lebres pode compartilhar a mesma posição.|Any number of hares can share a slot.
+3 pontos por animal de casco fendido na sua floresta, incluindo este gamo.|3 points per cloven-hoofed animal in your forest, including this fallow deer.
+Compre 2 cartas.|Draw 2 cards.
+1 ponto por morcego na sua floresta.|1 point per bat in your forest.
+Coloque gratuitamente qualquer número de morcegos da mão na floresta.|Play any number of bats from your hand at no cost.
+10 pontos se houver ao menos um corço na sua floresta.|10 points if you have at least one roe deer.
+Coloque quantas cartas quiser da mão na caverna e compre a mesma quantidade.|Put any number of cards from your hand into your cave, then draw that many.
+1 ponto por árvore e por planta na sua floresta; inclua as mudas.|1 point per tree and per plant in your forest, including saplings.
+Coloque uma carta de cervo da mão sem pagar; não use seu efeito ou bônus.|Play a deer from your hand at no cost. Its effect and bonus do not apply.
+2 pontos por lebre na sua floresta.|2 points per hare in your forest.
+Compre 1 carta por lebre na sua floresta, respeitando o limite da mão.|Draw 1 card per hare in your forest, up to your hand limit.
+3 pontos por carta visível com o mesmo símbolo de árvore, incluindo o próprio corço.|3 points per visible card with the matching tree symbol, including this roe deer.
+Aumenta em 1 a contagem da espécie da árvore onde está para as condições aplicáveis; não é ela própria uma árvore.|Adds 1 to the count of this tree species for applicable effects. The bee itself is not a tree.
+10 pontos se houver ao menos um leitão na floresta.|10 points if there is at least one piglet in your forest.
+5 pontos por carta de cervo na sua floresta.|5 points per deer card in your forest.
+Compre 1 carta por cervo na floresta, respeitando o limite da mão.|Draw 1 card per deer in your forest, up to your hand limit.
+2 pontos por inseto na sua floresta.|2 points per insect in your forest.
+Cada conjunto de 1, 2, 3, 4 ou 5 espécies diferentes vale 0, 3, 6, 12 ou 20 pontos. Cada carta pertence a um único conjunto.|Each set of 1, 2, 3, 4 or 5 distinct species scores 0, 3, 6, 12 or 20 points. Each card belongs to one set only.
+5 pontos se estiver sobre uma faia.|5 points if placed above a beech.
+3 pontos por ave na sua floresta, incluindo esta.|3 points per bird in your forest, including this one.
+10 pontos se sua floresta tiver mais árvores, incluindo empate. Mudas contam e abelhas aumentam a contagem aplicável.|10 points if your forest has the most trees, including ties. Saplings and applicable bees count.
+5 pontos se estiver sobre um carvalho.|5 points if placed above an oak.
+Compre mais 2 cartas.|Draw 2 additional cards.
+2 pontos por planta na sua floresta, incluindo esta.|2 points per plant in your forest, including this one.
+A partir do próximo turno, ao jogar uma árvore, você pode comprar 1 carta depois de pagar e antes dos efeitos e bônus.|Starting next turn, when you play a tree, you may draw 1 card after paying and before effects and bonuses.
+5 pontos por sapo que compartilha a posição com outro sapo.|5 points per toad sharing a slot with another toad.
+Até dois sapos-comuns podem compartilhar uma posição.|Up to two common toads may share a slot.
+O conjunto de 1, 2, 3 ou 4 vaga-lumes vale 0, 10, 15 ou 20 pontos.|A set of 1, 2, 3 or 4 fireflies scores 0, 10, 15 or 20 points.
+O conjunto de 1, 2 ou 3 salamandras vale 5, 15 ou 25 pontos.|A set of 1, 2 or 3 salamanders scores 5, 15 or 25 points.
+A partir do próximo turno, ao jogar animal com patas, você pode comprar 1 carta após pagar e antes dos efeitos e bônus.|Starting next turn, when you play a pawed animal, you may draw 1 card after paying and before effects and bonuses.
+2 pontos por borboleta na sua floresta.|2 points per butterfly in your forest.
+Após jogá-la, você pode jogar outras cartas da mão pagando o custo total. Resolva os efeitos e bônus dessas cartas, uma por vez, na ordem que escolher; para cada carta, resolva o efeito antes do bônus. Consulte o apêndice para casos especiais.|After playing this card, you may play more cards from your hand by paying their total cost. Resolve their effects and bonuses one card at a time, in any order. Resolve each effect before its bonus. See the appendix for special cases.
+10 pontos se sua floresta tiver pelo menos 10 árvores, incluindo mudas; abelhas aumentam a contagem aplicável.|10 points if you have at least 10 trees, including saplings. Applicable bees increase the count.
+A partir do próximo turno, ao jogar carta abaixo de árvore, você pode comprar 1 carta após pagar e antes dos efeitos e bônus.|Starting next turn, when you play a card below a tree, you may draw 1 card after paying and before effects and bonuses.
+A partir do próximo turno, ao jogar carta acima de árvore, você pode comprar 1 carta após pagar e antes dos efeitos e bônus.|Starting next turn, when you play a card above a tree, you may draw 1 card after paying and before effects and bonuses.
+1 ponto por animal com patas na sua floresta.|1 point per pawed animal in your forest.
+Coloque uma ave da mão sem pagar; não use seu efeito ou bônus.|Play a bird from your hand at no cost. Its effect and bonus do not apply.
+6 pontos por anfíbio na sua floresta.|6 points per amphibian in your forest.
+5 pontos por mosquito na sua floresta.|5 points per gnat in your forest.
+2 pontos por carta abaixo de uma árvore na sua floresta, incluindo esta.|2 points per card below a tree in your forest, including this one.
+1 ponto por carta da expansão Woodland Edge na sua floresta, incluindo este gato.|1 point per Woodland Edge card in your forest, including this wildcat.
+Pegue 1 carta da clareira para sua mão.|Take 1 card from the clearing into your hand.
+3 pontos por morcego na sua floresta.|3 points per bat in your forest.
+Se houver pelo menos um morcego na floresta, faça outro turno após este.|If you have at least one bat in your forest, take another turn after this one.
+1 ponto.|1 point.
+0 pontos.|0 points.
+2 pontos.|2 points.
+3 pontos.|3 points.
+5 pontos.|5 points.

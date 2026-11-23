@@ -1,0 +1,166 @@
+Como usar|How to use
+Cartas de expansão|Expansion cards
+Sem expansão|Base game
+Com expansão|With expansion
+Jogadores da partida|Players in this game
+Jogadores|Players
+Adicionar jogador|Add player
+Remover atual|Remove current player
+Nome do jogador|Player name
+Nova partida|New game
+Jogador|Player
+Catálogo|Card catalog
+Busque pelo nome ou filtre pela posição na árvore.|Search by name or filter by position around the tree.
+Buscar carta|Search cards
+Todas|All
+Árvores|Trees
+Acima|Above
+Esquerda|Left
+Direita|Right
+Abaixo|Below
+ACIMA|ABOVE
+ESQUERDA|LEFT
+DIREITA|RIGHT
+ABAIXO|BELOW
+Sua floresta|Your forest
+Nenhuma carta selecionada|No card selected
+Selecionada: |Selected:\x20
+Adicione sua primeira árvore|Add your first tree
+Escolha uma árvore no catálogo para abrir espaço para as outras cartas.|Choose a tree from the catalog to place other cards around it.
+Buscar árvore no catálogo|Find a tree in the catalog
+Regras de contagem|Scoring rules
+No jogo-base, cada exemplar lateral só pode ser colocado no lado indicado pela metade visível. As imagens e os exemplares de expansão ainda não foram cadastrados individualmente. A verificação de quantidades considera as cartas visíveis das florestas; não identifica as metades ocultas nem as cartas usadas como mudas ou na caverna. Monte a floresta final, não a sequência de turnos. Apenas a metade visível de cada carta dividida é adicionada. Os efeitos de compra, pagamento e bônus durante a partida não são simulados. As cartas na caverna valem 1 ponto cada. As florestas dos outros jogadores são usadas para comparar maiorias; na contagem individual, as maiorias dependem das florestas adversárias.|In the base game, each side card can only be placed on the side shown by its visible half. Expansion card copies and images have not been added individually. Card limits apply to visible forest cards. Hidden halves, saplings and cave cards are not identified separately. Record the final forest rather than replaying every turn. Add only the visible half of each split card. Draws, payments and turn bonuses are not simulated. Cave cards score one point each. Majority bonuses depend on the other players’ forests, including in solo scoring.
+Consultar o apêndice das cartas|Open the card appendix
+Os pontos ficam ocultos até o fim da partida.|Scores stay hidden until the game ends.
+Jogo finalizado|Finish game
+Resultado da partida|Final standings
+Selecione um jogador para ver os detalhes.|Select a player to see their score breakdown.
+Total de pontos|Total score
+Total de |Total for\x20
+Ilustração de uma caverna na floresta|Illustration of a cave in the forest
+Cartas na caverna|Cards in the cave
+Quantidade de cartas na caverna|Number of cards in the cave
+1 ponto por carta|1 point per card
+Limpar floresta|Clear forest
+Explicação da pontuação|Scoring breakdown
+Detalhes da pontuação|Score breakdown
+Interações e condições das cartas já posicionadas. Efeitos de compra e bônus de turno não são pontos.|Scores are based on card placement and interactions. Draw effects and extra turns do not score points.
+Pontuação provisória|Provisional score
+Pontuação total|Total score
+Pontuação|Score
+Escolha sua carta|Choose your card
+Confira a cor, a posição e a outra metade da carta física; cada exemplar só pode ocupar o lado indicado.|Check the color, position and other half of your physical card. Each copy can only go on its designated side.
+Exemplares já usados em uma floresta ficam indisponíveis. Cartas em cavernas ou usadas como mudas ainda não são identificadas individualmente.|Copies already used in a forest are unavailable. Cave cards and saplings are not tracked by copy.
+Cancelar|Cancel
+Escolha o símbolo da carta|Choose the tree symbol
+Escolha a cor e o símbolo impressos na carta física.|Choose the color and symbol printed on your card.
+O símbolo escolhido é usado no cálculo do corço. Os desenhos são uma referência visual; confirme também o nome da árvore.|Roe deer scoring uses this symbol. Check the tree name as well as the illustration.
+Limpar símbolo|Clear symbol
+Fechar|Close
+Guia de cartas · confira a edição e o lado do exemplar|Card guide · check the edition and placement
+Os efeitos e bônus descrevem a partida física; a calculadora registra a floresta final e não executa esses efeitos. O bônus depende do pagamento com símbolos compatíveis.|Effects and bonuses refer to the physical game. This calculator records the final forest and does not apply them. Bonuses require payments with matching symbols.
+Entendi|OK
+Escolha: |Choose:\x20
+Posição: |Position:\x20
+Outra metade: |Other half:\x20
+Já utilizada|Already used
+Selecionar este exemplar|Select this copy
+À esquerda ou à direita|Left or right
+Acima da árvore|Above the tree
+Abaixo da árvore|Below the tree
+Nenhum efeito indicado.|No effect.
+Nenhum bônus indicado.|No bonus.
+Custo|Cost
+Pontos|Points
+Efeito|Effect
+Bônus|Bonus
+Ver carta|View card
+Ver pontos e efeitos|View scoring and effects
+Ver detalhes de |View details for\x20
+Ver atributos, pontos e efeitos|View card attributes, scoring and effects
+Remover árvore|Remove tree
+Remover carta|Remove card
+Escolher símbolo de árvore de |Choose tree symbol for\x20
+Símbolo da carta: |Card symbol:\x20
+Símbolo fixo deste exemplar|Tree symbol is fixed for this copy
+Símbolo|Symbol
+Clique para colocar a carta selecionada|Place the selected card here
+Selecione uma carta do catálogo primeiro.|Select a card from the catalog first.
+Remover esta árvore e todas as cartas ligadas a ela?|Remove this tree and all its attached cards?
+Ative a expansão para selecionar|Enable expansion cards to select this one
+Ative a expansão para usar esta carta.|Enable expansion cards to use this card.
+Clique na carta para escolher o exemplar antes de arrastá-la.|Select a specific copy before dragging the card.
+Esta carta não pode ser colocada nesta posição.|This card cannot be placed in this slot.
+Esta posição já está ocupada. Somente lebres ou até dois sapos podem compartilhar a posição com cartas da mesma espécie.|This slot is occupied. Only hares or up to two toads can share a slot with their own species.
+Selecione primeiro um exemplar desta carta no catálogo.|Select a specific copy of this card from the catalog first.
+Este exemplar deve ser colocado |This copy must be placed\x20
+ da árvore, conforme a metade visível.| the tree, as shown on the visible half.
+Este exemplar já está em uma floresta. Escolha outro exemplar.|This copy is already in a forest. Choose another one.
+Todas as |All\x20
+ cartas de | copies of\x20
+ já estão nas florestas. Remova uma delas antes de adicionar outra.| are already in use. Remove one before adding another.
+Limite de cartas|Card limit
+Aviso|Notice
+Confirmar ação|Confirm action
+Confirmar|Confirm
+As florestas serão bloqueadas para edição e os pontos de todos os jogadores serão revelados.|The forests will be locked for editing and all players’ scores will be revealed.
+Finalizar partida?|Finish the game?
+Remover este jogador e sua floresta?|Remove this player and their forest?
+Zerar a contagem deste jogador? Isso remove todas as árvores, cartas e cartas da caverna da floresta atual.|Clear this player’s forest, including all trees, attached cards and cave cards?
+Apagar todas as florestas e iniciar uma nova partida?|Clear all forests and start a new game?
+Remova as cartas de expansão de todas as florestas antes de escolher o jogo sem expansão. Assim, elas não serão apagadas sem querer.|Remove expansion cards from all forests before switching to the base game.
+Cartas de expansão em uso|Expansion cards in use
+1. Adicione árvores clicando no catálogo.\n2. Selecione uma espécie e escolha o exemplar correspondente à sua carta física; depois toque na posição indicada.\n3. Para corços, informe o símbolo de árvore de todas as cartas visíveis.\n4. Digite a quantidade de cartas na caverna.\n5. Alterne entre jogadores para montar e comparar florestas.|1. Add trees from the catalog.\n2. Select a species and the matching physical card, then choose its designated slot.\n3. For roe deer, record the tree symbol on each visible card.\n4. Enter the number of cave cards.\n5. Set up each player’s forest and select Finish game to reveal all scores.
+A expansão está incompleta: somente gato-selvagem e coruja-das-torres estão cadastrados. Outras cartas da expansão e suas interações não são pontuadas automaticamente.|Only the European wildcat and barn owl are available from the expansion. Other expansion cards and their interactions are not scored automatically.
+Pontuação provisória: as outras cartas Woodland Edge informadas contam para o gato, mas seus próprios pontos e interações não são calculados.|Provisional score: additional Woodland Edge cards count toward the wildcat but their own points and interactions are not scored.
+Há |There are\x20
+ carta(s) de uma versão anterior sem exemplar físico identificado. A pontuação permanece, mas pares, posição e cores dessas cartas não podem ser validados. Remova e adicione-as novamente para conferir.| card(s) from an earlier version without a recorded copy. They still score, but their other halves, positions and colors cannot be verified. Remove and re-add them to check.
+Confira as quantidades entre todas as florestas: |Check card quantities across all forests:\x20
+. A pontuação é provisória até corrigir o excesso.|. Scoring is provisional until you correct the excess.
+A comparação de tílias e pica-paus é provisória: há floresta de outro jogador sem árvores. Confira se ela já foi montada.|Linden and woodpecker scoring is provisional because another player has no trees recorded yet.
+Gato-selvagem: registre outras cartas Woodland Edge visíveis que ainda não estão no catálogo (sem contar os gatos e corujas já montados): |Wildcat: count other visible Woodland Edge cards unavailable in the catalog, excluding wildcats and owls already placed:\x20
+Outras cartas Woodland Edge|Other Woodland Edge cards
+. Informe 0 se não houver outras.|. Enter 0 if there are no others.
+Pontuação provisória: a maioria de árvores ou tílias só pode ser conferida após cadastrar as florestas dos adversários.|Provisional score: record the other players’ forests to confirm who has the most trees or lindens.
+Pontuação provisória: selecione o símbolo de árvore impresso em cada carta visível para calcular os corços (|Provisional score: choose the printed tree symbol on each visible card to score roe deer (
+ sem símbolo). Até lá, o total dos corços é parcial.| missing symbols). The roe deer total is incomplete.
+ faias na contagem, incluindo abelhas em faias; são necessárias 4.| beeches including applicable bees. At least 4 are required.
+ castanheiros na contagem, incluindo abelhas em castanheiros.| horse chestnuts including applicable bees.
+ tílias na contagem, incluindo abelhas; compare com os adversários.| lindens including applicable bees. Compare with the other players.
+Cada carta ligada aos seus abetos-brancos vale 2 pontos, inclusive cartas que compartilham posição.|Each card attached to your silver firs scores 2 points, including cards sharing a slot.
+ árvores na floresta, incluindo mudas.| trees in the forest, including saplings.
+ de 8 espécies de árvores presentes.| of 8 tree species present.
+ espécies de morcegos; são necessárias 3.| bat species. At least 3 are required.
+ borboletas agrupadas por espécies diferentes, sem reutilizar cartas.| butterflies grouped in sets of distinct species, with no card reused.
+ árvores com os quatro lados ocupados.| trees with all four sides occupied.
+Conta apenas se houver morcego no lado oposto da mesma árvore.|Scores only with a bat on the opposite side of the same tree.
+ lebres × | hares ×\x20
+ lebres.| hares.
+ animais de casco fendido, incluindo os gamos.| cloven-hoofed animals, including fallow deer.
+ cervídeos na floresta.| deer in the forest.
+ árvores e | trees and\x20
+ plantas; mudas entram como árvores.| plants. Saplings count as trees.
+Conta os símbolos correspondentes nas cartas visíveis; símbolos não informados deixam o resultado provisório.|Counts matching symbols on visible cards. Missing symbols make the score provisional.
+ árvores na contagem desta condição, incluindo abelhas; compare com os adversários.| trees for this condition, including applicable bees. Compare with the other players.
+ árvores na contagem desta condição, incluindo abelhas; são necessárias 10.| trees for this condition, including applicable bees. At least 10 are required.
+A abelha aumenta contagens específicas da espécie em que está; ela não se torna uma árvore.|A bee increases applicable counts for its host tree species. The bee itself is not a tree.
+ cartas abaixo de árvores, inclusive cartas que compartilham posição.| cards below trees, including cards sharing a slot.
+Somente pares no mesmo espaço pontuam; um sapo sozinho vale zero.|Only pairs in the same slot score. A single toad scores zero.
+ morcegos na floresta.| bats in the forest.
+ cartas Woodland Edge cadastradas na floresta + | Woodland Edge cards recorded in the forest +\x20
+ outras informadas.| other cards entered.
+Esta carta não pontua diretamente.|This card does not score points directly.
+ cartas × 1 ponto cada.| cards × 1 point each.
+'carta'|'card'
+'cartas'|'cards'
+árvore|tree
+laterais|sides
+à esquerda|to the left of
+à direita|to the right of
+esquerda|left
+direita|right
+acima|above
+abaixo|below
+Árvore|Tree
+Cervídeo|Deer
+Carta antiga: exemplar não identificado|Legacy card: copy not identified
